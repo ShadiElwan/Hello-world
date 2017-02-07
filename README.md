@@ -1,2 +1,3 @@
 # Hello-world
-A test repository
+Just a test repository.
+This is an updated version.
